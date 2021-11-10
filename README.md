@@ -56,7 +56,7 @@ app.config['SECRET_KEY'] = 'thisismyflasksecretkey'
 
 ```
 
-
+![alt text](https://user-images.githubusercontent.com/74233809/141132628-ea94f216-a908-48ef-815f-bba18c3283ee.png)
 
 
 
