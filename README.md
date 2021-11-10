@@ -27,13 +27,11 @@ pip install psycopg2
 
 
 ```
-
 git clone https://github.com/M0nero/flask_sql_scrapper.git
 
 cd flask_sql_scrapper
 
 #create venv
-
 ```
 
 ## Usage 
