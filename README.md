@@ -13,13 +13,11 @@ To do this project following libraries required: ```Flask```, ```Flask SQLAlchem
 
 
 ```
-
 pip install beautifulsoup4
 pip install Flask
 pip install Flask-SQLAlchemy
 pip install requests
 pip install psycopg2
-
 ```
 
 ## Install script
