@@ -65,7 +65,9 @@ app.config['SECRET_KEY'] = 'thisismyflasksecretkey'
 
 ## Examples
 
+/when user just opened the page
 
+![alt text](https://user-images.githubusercontent.com/74233809/141135318-28e4dfae-ce7f-44a5-a0dd-7ffe3fd42563.png)
 
 /when user entered the name of coin and clicked search
 
