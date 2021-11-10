@@ -72,7 +72,8 @@ app.config['SECRET_KEY'] = 'thisismyflasksecretkey'
 ![alt text](https://user-images.githubusercontent.com/74233809/141133433-709bae2b-6700-4a33-b1fc-d3985acbb1e4.png)
 
 
-
+/when user enters unknown coin 
+![alt text](https://user-images.githubusercontent.com/74233809/141134661-ed535c52-439a-4b20-811d-db892bf81464.png)
 
 
 ## License
